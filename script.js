@@ -2,7 +2,8 @@ function generateCards(places) {
     const container = document.getElementById('cards-container');
     container.innerHTML = '';
     places.forEach(place => {
-        const localImageUrl = place.localImageUrl ? place.localImageUrl.replace(/\\/g, '/').replace('D:/Code/Scrapping BCN/', '') : '';
+        // Reemplazar la parte de la ruta local con la ruta relativa
+        const localImageUrl = place.localImageUrl ? place.localImageUrl.replace(/^.*[\\\/]/, 'img/') : '';
 
         const card = document.createElement('div');
         card.className = 'card';

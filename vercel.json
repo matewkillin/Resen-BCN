@@ -7,10 +7,6 @@
         "use": "@vercel/static"
       },
       {
-        "src": "telefono.html",
-        "use": "@vercel/static"
-      },
-      {
         "src": "styles.css",
         "use": "@vercel/static"
       },
