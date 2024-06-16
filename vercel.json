@@ -1,4 +1,15 @@
-  {
-    "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+{
+    "builds": [
+      {
+        "src": "package.json",
+        "use": "@vercel/node"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/scrape.js",
+        "status": 404
+      }
+    ]
   }
   
