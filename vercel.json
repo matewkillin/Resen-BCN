@@ -1,21 +1,10 @@
 {
     "version": 2,
+    "public": true,
     "builds": [
       {
         "src": "index.html",
-        "use": "@vercel/static-build"
-      },
-      {
-        "src": "telefono.html",
-        "use": "@vercel/static-build"
-      },
-      {
-        "src": "styles.css",
-        "use": "@vercel/static-build"
-      },
-      {
-        "src": "script.js",
-        "use": "@vercel/static-build"
+        "use": "@vercel/static"
       }
     ],
     "routes": [
