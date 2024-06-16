@@ -5,6 +5,18 @@
       {
         "src": "index.html",
         "use": "@vercel/static"
+      },
+      {
+        "src": "telefono.html",
+        "use": "@vercel/static"
+      },
+      {
+        "src": "styles.css",
+        "use": "@vercel/static"
+      },
+      {
+        "src": "script.js",
+        "use": "@vercel/static"
       }
     ],
     "routes": [
