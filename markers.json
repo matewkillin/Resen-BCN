@@ -1,0 +1,66 @@
+[
+  {
+    "name": "The Fish & Chips Shop",
+    "description": "Comidita de mar, todo sin gluten. Está increible. \nCaro pero no tanto, normal para el centro.",
+    "category": "c",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuH20REZQsAruUBD3_xsi4vuKWf1HqFTXwDmeNKJRJZgkVRTGAVRjrhtLiB5SltpAmh4pyjkqLa_-mCP8EZ3U3D9QWNzIB9XpaftIHxyKue0EgMp6uU0HQnWFFLMCT0h5oh2Ntsf_OiYMRb_Gq4Mem3Tt_dU0gWP2xvzwzIculewlhepTQOEZFvuuS-_HPOciY7CrFHVSGLzFB_Cjdcvad1s02crtPfzrJKBqq35Hn2cwtIEiB2LYNrW_eJm-znyEr2sfI1pm8l6jg?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.3994413,2.1504969/@41.399311,2.0682831,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_1.jpg"
+  },
+  {
+    "name": "Sagrada Familia",
+    "description": "Es obvio pero es muy imponente, podes ir a la plaza de en frente a tomar unos mates.\nDomingos 10am hay misa y se puede entrar gratis, tenés que ir como a las 7 para hacer la fila.",
+    "category": "d",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuFaIEziex026yqBw-z1SURd_N4nNs0YgOILxA8Os9zlhJyxUTlA6FdReah275JAUjywGMkDayfAdZoXmXtKHms1zaP86jvSZBfjMPOKNFRjy0yVDE3jd0xkxOkwtAq5pyV7W3CAlPtv71KQBCLUq0WNsmqlAKqtB1ANvbHkGXFiYfxdS_Y92SQ2abMk4ZphmnkrCK-KeRiusW0tPdBZ68aAcMqsQzl8Jrrnydc8wWwuzTqPIxHgS5V5QmQs2z_8DvgfMF0tDwG-Sw?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.4043239,2.1746666/@41.4044286,2.0921916,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_2.jpg"
+  },
+  {
+    "name": "Playa del Bogatell",
+    "description": "Dato curioso: las playas de Bacelona son falsas :O Suelen estar muuuuy llenas de gente. la arena tiene polvo :/ Hay canchas de voley pero hay que ir muy temprano, las gratis son las naranjas y las amarillas son de personas.",
+    "category": "a",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuGdeSMgut4J6a3M6ZR8B49yl-rTLdEZKY6Gf3KH7oc4VrMj9f0O-ldMO1kE1ImzIdrFMXNUpEjNzZl8aom9pSvQUTutt1nc7LDMb5CYDjsU29Q8_MuYvBVoWdH6rlkuBq-7i89UrWMef5idR44c7YOy4CjR50lXHQhhufFlkgiEssn5Zh05cxk7ATn_8OIhFWtLNoY2NBd4Ad4r6x1EKqnDn8T9CMOQsERB--s89Yrj8FbDAiCjimktdoMoWM6E0cRhM9JhCb1o_Q?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.3943735,2.2070109/@41.3943441,2.1246101,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_3.jpg"
+  },
+  {
+    "name": "Park Güell",
+    "description": "Es un lugar tremendo, PERO, hay que sacar entrada antes -si vivís en bcn con el gaudir mes es gratis- sale 12Є. El tema es que está LLENO de turistas en modo turistas, clave ir temprano. Capaz tardas 2/3 hs en recorrer todo.",
+    "category": "d",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuGJyvwB-IQbrtn_yRYLTz8IZbVOjKgDEf_VXCl5lajdxipr2nMU0BGNGZKJu4aJaILFvBTWTKlA1A7X5c6-l4OScxQ5PlkITVPeIhYtGyo72lacRqKLk85GAV9HVilkuYnwsCdI0BVnkbGztDfw3Psoda4PunhPneAZoyHSCBItydrVNPH2yIDlt3f5NzkKl76aNXnLb6K2TNscj3G3jxiO4FNBL9Vj4ZVV9udJoTP94A9RfcXtVeVLzr0-Y3zkyucJCEu-xMirfg?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.4144948,2.1526945/@41.4142695,2.0703225,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_4.jpg"
+  },
+  {
+    "name": "La Pedrera - Casa Milà",
+    "description": "DE LOCOS. La entrada sale 25Є, 50% de descuento para residentes.\nEs una de las obras mas conocidas de Gaudí.\nTe lleva 2hs aprox.",
+    "category": "d",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuGI8tchTAxNk51GsXaqUMtfhycBebsHYazDSj6uagk9sk1PA0hVibWQ34kirZPC13bbKE7mN4TWwrMa_QAc_cxiw-O25-xQxrLt0lGHxlOb34hnjAdN9Hu15FPc8d_Qz7u5p1lmPjICqmcxAtUic6F27nhO97kQqfcO12Q32Rr3U_8APC97Rt53mnTBxR-4-TaWZe3cLgk2jH_F-gxkWi2wL1Gx9EJZnMIcKGp2SMhPcziUzdSQPzCv5vdmeu-AFcTPy_46BScZoQ?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.3952155,2.1619024/@41.3954035,2.0795847,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_5.jpg"
+  },
+  {
+    "name": "Disseny Hub Barcelona - DHub",
+    "description": "Muy lindo, varios pisos, una biblioteca tremenda, cafetería y muchas exposiciones.\n\nGratis con Gaudir mes -residentes bcn-  sino 6Є primeros domingos de cada mes todos gratis.",
+    "category": "m",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuGU31G33qJIAEIbbWaLdaX4R4dOYjYsLFkGoqArLP8vIHsrIreJ3ef4h8VC43eKqfuDw4WWIIkl9u0n-QECBAE5RklJ7arWA1gfxHTlndyiIYJ1NtX6hzmaII28xfD4YBpyAMv7AYw5J8Bvub3BoV5twF1qffZDt7POi35XPA5aushgHZPK96piF4tmu_ZwESoNoKW8lxRb_rlFL9nylbM56lIEgDbOomPVB-HPIfPOuw-gnO7YjRg7PWCR2l3FNXdXy823E3hvZA?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.4022757,2.1883718/@41.4024216,2.105691,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_6.jpg"
+  },
+  {
+    "name": "Estadio Olímpico de Montjuic",
+    "description": "Me encanta este lugar! El Barca está jugando acá porque estar haciendo nuevo el Camp nou. Pero eso no es lo importante, toda la zona del Montjuic es muuuy linda, se ve tremendo atardecer. Para caminar y tomar mates por ahí también es re bonito.",
+    "category": "a",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuG6QwXZpUJNMuAYMUePwafllXxEGTLne8-Ax5fVrjjhAPBjyVTxmKjuF0XFeBYZAqBYDFLRiTmIgecO03kydf2F4cONkdSynxCAffGCzZRKRTn9GCEUEIJB37If14oy4v1TfZThCFIrHk0Cx65X8tNjo8Rn1h3IWcg5ID8OV1Adc7JJW-IqlzVCykJki6MIm-30xtO-P7xIHnyHnzjcYhiewbxDf74QXlcr0HPOYL1A1GZJaXuapzcrmbo-x9yrWLqoKkGujjpE7w?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.3647848,2.1557648/@41.3646119,2.073214,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_7.jpg"
+  },
+  {
+    "name": "Sitges",
+    "description": "Reee lindo lugar! se llega en el R2. La playa es muy linda y la zona historica también. Suele haber mucha gente.",
+    "category": "p",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuELzTph4GJbYqPHtrIfk6z3uJT50noUhous_my6YU0OGtKAY8Fy_0VNrd94LQHnNTQJ6aVhgTSRsAliEWtPhNRc6kAHvAZIKsKVFNSSX7MB3Ri4w5d427HDox5DM_i6swopsziZZ6DBjohJ_psij8LHv835GvDj4iMkkF45_YTyblWCeOJfU5Yqku2RbVyBb77_jO8u2KNZhIuITqo63C99LAGb7T1fLCn9ujU3r9P3nhAq2dJsRu4zAOB14wUhysd-T3aMdV6nqQ?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.2365928,1.8058987/@41.2365634,1.7234979,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_8.jpg"
+  }
+]
