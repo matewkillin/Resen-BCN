@@ -13,17 +13,21 @@ body {
     border: none;
 }
 
-.nav-bar {
+.nav-wrapper {
     display: flex;
     justify-content: center;
-    background-color: #fff;
-    padding: 5px 5px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     position: fixed;
-    top: calc(50vh - 20px); /* Asegura que la barra de navegación esté justo debajo del mapa */
+    top: calc(50vh - 20px);
     left: 50%;
     transform: translateX(-50%);
     z-index: 1000;
+    gap: 5px;
+}
+
+.nav-bar {
+    background-color: #fff;
+    padding: 5px 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 25px;
 }
 
@@ -39,11 +43,61 @@ body {
     border-radius: 20px;
 }
 
-.nav-bar button:hover,
 .nav-bar button.selected {
     background-color: #e0e0e0;
-    transform: scale(1.0);  
+    transform: scale(1.0);
     margin: 4px;
+}
+
+.section-selector {
+    background-color: #333;
+    border-radius: 25px 25px 25px 2px;
+    padding: 8px 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+.dropdown-button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 20px;
+    transition: background-color 0.3s, transform 0.3s;
+    position: relative;
+    font-weight: bold;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #333;
+    border-radius: 3px 25px 20px 20px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    margin-top: 2px;
+}
+
+.dropdown-content button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+    text-align: left;
+    transition: background-color 0.3s, transform 0.3s;
+    border-radius: 0;
+}
+
+.dropdown-content button:hover {
+    background-color: #555;
 }
 
 .cards-container {
@@ -91,10 +145,6 @@ body {
     color: white;
     text-decoration: none;
     border-radius: 5px;
-}
-
-.card a:hover {
-    background-color: #555;
 }
 
 .card:hover {
