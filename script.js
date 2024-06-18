@@ -21,7 +21,16 @@ function filterCategory(category) {
         button.classList.remove('selected');
     });
 
-    document.querySelector(`.nav-bar button[onclick="filterCategory('${category}')"]`).classList.add('selected');
+    document.querySelectorAll('.dropdown-content button').forEach(button => {
+        button.classList.remove('selected');
+    });
+
+    document.querySelector(`.nav-bar button[onclick="filterCategory('${category}')"]`)?.classList.add('selected');
+    document.querySelector(`.dropdown-content button[onclick="filterCategory('${category}')"]`)?.classList.add('selected');
+
+    // Cerrar el desplegable después de seleccionar una opción en móvil
+    const dropdown = document.querySelector('.dropdown-content');
+    dropdown.style.display = 'none';
 }
 
 window.onload = function() {
