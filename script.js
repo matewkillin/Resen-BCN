@@ -1,23 +1,10 @@
-function generateCards(places) {
-    const container = document.getElementById('cards-container');
-    container.innerHTML = '';
-    places.forEach(place => {
-        // Reemplazar la parte de la ruta local con la ruta relativa
-        const localImageUrl = place.localImageUrl ? place.localImageUrl.replace(/^.*[\\\/]/, 'img/') : '';
+function toggleDropdown() {
+    const dropdown = document.querySelector('.dropdown-content');
+    dropdown.style.display = dropdown.style.display === 'block' ? 'none' : 'block';
+}
 
-        const card = document.createElement('div');
-        card.className = 'card';
-        card.setAttribute('data-category', place.category);
-
-        card.innerHTML = `
-            ${localImageUrl ? `<img src="${localImageUrl}" alt="${place.name}">` : ''}
-            <h3>${place.name}</h3>
-            <p>${place.description}</p>
-            <a href="${place.directionsUrl}" target="_blank">Cómo llegar</a>
-        `;
-
-        container.appendChild(card);
-    });
+function navigateTo(url) {
+    window.location.href = url;
 }
 
 function filterCategory(category) {
@@ -37,20 +24,6 @@ function filterCategory(category) {
     document.querySelector(`.nav-bar button[onclick="filterCategory('${category}')"]`).classList.add('selected');
 }
 
-function toggleDropdown() {
-    const dropdown = document.querySelector('.dropdown-content');
-    dropdown.style.display = dropdown.style.display === 'block' ? 'none' : 'block';
-}
-
-function loadPage(url) {
-    const contentContainer = document.getElementById('content-container');
-    if (url.endsWith('.html')) {
-        window.location.href = url;
-    } else {
-        contentContainer.innerHTML = `<iframe src="${url}" width="100%" height="100%" style="border:none;"></iframe>`;
-    }
-}
-
 window.onload = function() {
     fetch('markers.json')
         .then(response => response.json())
@@ -59,3 +32,24 @@ window.onload = function() {
         })
         .catch(error => console.error('Error cargando el archivo JSON:', error));
 };
+
+function generateCards(places) {
+    const container = document.getElementById('cards-container');
+    container.innerHTML = '';
+    places.forEach(place => {
+        const localImageUrl = place.localImageUrl ? place.localImageUrl.replace(/^.*[\\\/]/, 'img/') : '';
+
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.setAttribute('data-category', place.category);
+
+        card.innerHTML = `
+            ${localImageUrl ? `<img src="${localImageUrl}" alt="${place.name}">` : ''}
+            <h3>${place.name}</h3>
+            <p>${place.description}</p>
+            <a href="${place.directionsUrl}" target="_blank">Cómo llegar</a>
+        `;
+
+        container.appendChild(card);
+    });
+}
