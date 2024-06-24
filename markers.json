@@ -1,66 +1,202 @@
 [
   {
-    "name": "The Fish & Chips Shop",
-    "description": "Comidita de mar, todo sin gluten. Está increible. \nCaro pero no tanto, normal para el centro.",
-    "category": "c",
-    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuH20REZQsAruUBD3_xsi4vuKWf1HqFTXwDmeNKJRJZgkVRTGAVRjrhtLiB5SltpAmh4pyjkqLa_-mCP8EZ3U3D9QWNzIB9XpaftIHxyKue0EgMp6uU0HQnWFFLMCT0h5oh2Ntsf_OiYMRb_Gq4Mem3Tt_dU0gWP2xvzwzIculewlhepTQOEZFvuuS-_HPOciY7CrFHVSGLzFB_Cjdcvad1s02crtPfzrJKBqq35Hn2cwtIEiB2LYNrW_eJm-znyEr2sfI1pm8l6jg?fife=s408",
-    "directionsUrl": "https://www.google.com/maps/dir//41.3994413,2.1504969/@41.399311,2.0682831,12z?entry=ttu",
-    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_1.jpg"
-  },
-  {
     "name": "Sagrada Familia",
     "description": "Es obvio pero es muy imponente, podes ir a la plaza de en frente a tomar unos mates.\nDomingos 10am hay misa y se puede entrar gratis, tenés que ir como a las 7 para hacer la fila.",
     "category": "d",
-    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuFaIEziex026yqBw-z1SURd_N4nNs0YgOILxA8Os9zlhJyxUTlA6FdReah275JAUjywGMkDayfAdZoXmXtKHms1zaP86jvSZBfjMPOKNFRjy0yVDE3jd0xkxOkwtAq5pyV7W3CAlPtv71KQBCLUq0WNsmqlAKqtB1ANvbHkGXFiYfxdS_Y92SQ2abMk4ZphmnkrCK-KeRiusW0tPdBZ68aAcMqsQzl8Jrrnydc8wWwuzTqPIxHgS5V5QmQs2z_8DvgfMF0tDwG-Sw?fife=s408",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuGy-ps_u-Q--0LiSkpGVMe_H0yxFbAAVsG7NzWrfXbY7Ba9-3H-WdvBlsZGL8_-eLas9WG1WIjta1cXv7HbLrCHybEfY9SNu9Y0ZyN5Wg02lfsSUBaVm2MXntY7cixV6P_KioKzcr1qHKM9Cv_djQ_BjMAh8g1XjFpGi52gIL2jNT4ffa_dgi1Vs2PC01JQ0YkhENrnjDG7bndp-gKoS-lHPhXzshzuOTLgnTmAUesa0SlFBSRP-sSmHThq0u0r8ah4t_7RVcDZ?fife=s408",
     "directionsUrl": "https://www.google.com/maps/dir//41.4043239,2.1746666/@41.4044286,2.0921916,12z?entry=ttu",
-    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_2.jpg"
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_1.jpg"
   },
   {
     "name": "Playa del Bogatell",
     "description": "Dato curioso: las playas de Bacelona son falsas :O Suelen estar muuuuy llenas de gente. la arena tiene polvo :/ Hay canchas de voley pero hay que ir muy temprano, las gratis son las naranjas y las amarillas son de personas.",
     "category": "a",
-    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuGdeSMgut4J6a3M6ZR8B49yl-rTLdEZKY6Gf3KH7oc4VrMj9f0O-ldMO1kE1ImzIdrFMXNUpEjNzZl8aom9pSvQUTutt1nc7LDMb5CYDjsU29Q8_MuYvBVoWdH6rlkuBq-7i89UrWMef5idR44c7YOy4CjR50lXHQhhufFlkgiEssn5Zh05cxk7ATn_8OIhFWtLNoY2NBd4Ad4r6x1EKqnDn8T9CMOQsERB--s89Yrj8FbDAiCjimktdoMoWM6E0cRhM9JhCb1o_Q?fife=s408",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuFKXUQUfAQDOFRADsIHjqKX9N9cPjT24XCiNb6WwDEvUwT2jhhM6AK5qxKj5pHZ1-qzePR_k9kUcSDJ6Qy56LlyYEYRkbkhnASrH1MSTP4-8OPGZlw24M-iRMwCW8rPvQaxZEskaH9Raxrf_6domzaQPX2FlEmvtlxg9DlXMKnfvR8G-7PJTfBuHMJmazZG45BqanULlOeD4TLz2CaBpIw8gVlPhxos12vomrJI_XbMwMMc12U3mntH612Km96yfUjlJD9D8zx4?fife=s408",
     "directionsUrl": "https://www.google.com/maps/dir//41.3943735,2.2070109/@41.3943441,2.1246101,12z?entry=ttu",
-    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_3.jpg"
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_2.jpg"
   },
   {
     "name": "Park Güell",
-    "description": "Es un lugar tremendo, PERO, hay que sacar entrada antes -si vivís en bcn con el gaudir mes es gratis- sale 12Є. El tema es que está LLENO de turistas en modo turistas, clave ir temprano. Capaz tardas 2/3 hs en recorrer todo.",
+    "description": "Es un lugar tremendo, PERO, hay que sacar entrada antes -si vivís en bcn con el Gaudir mes es gratis- sale 12Є. El tema es que está LLENO de turistas en modo turistas, clave ir temprano. Capaz tardas 2/3 hs en recorrer todo.",
     "category": "d",
-    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuGJyvwB-IQbrtn_yRYLTz8IZbVOjKgDEf_VXCl5lajdxipr2nMU0BGNGZKJu4aJaILFvBTWTKlA1A7X5c6-l4OScxQ5PlkITVPeIhYtGyo72lacRqKLk85GAV9HVilkuYnwsCdI0BVnkbGztDfw3Psoda4PunhPneAZoyHSCBItydrVNPH2yIDlt3f5NzkKl76aNXnLb6K2TNscj3G3jxiO4FNBL9Vj4ZVV9udJoTP94A9RfcXtVeVLzr0-Y3zkyucJCEu-xMirfg?fife=s408",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuFrzZqv9lxbBnPfm6DO2libbmzFk5fPWjtRHPNaSs0S9BSUb7KEzi7-G3yLIa6mXyXr8wIIhxLnped7S8i3JoqvlAMB5QCwyscMpksNEHpEqaiujRmUmzJIJh1tJOZcoKSS7f8ZMZTC-hdWj_vDrP0A0AdfkAj7Uo8c0HGFvVn9MBHoPIL_opMfYh0_K3cjfRXWK-T2lRIcyYxfyz4CHqPmrM-l3DCV4h8zuBHqa4BbVfZn6ST3LNTYiXJh5eI7IniO1mvyWVxp?fife=s408",
     "directionsUrl": "https://www.google.com/maps/dir//41.4144948,2.1526945/@41.4142695,2.0703225,12z?entry=ttu",
-    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_4.jpg"
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_3.jpg"
   },
   {
     "name": "La Pedrera - Casa Milà",
     "description": "DE LOCOS. La entrada sale 25Є, 50% de descuento para residentes.\nEs una de las obras mas conocidas de Gaudí.\nTe lleva 2hs aprox.",
     "category": "d",
-    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuGI8tchTAxNk51GsXaqUMtfhycBebsHYazDSj6uagk9sk1PA0hVibWQ34kirZPC13bbKE7mN4TWwrMa_QAc_cxiw-O25-xQxrLt0lGHxlOb34hnjAdN9Hu15FPc8d_Qz7u5p1lmPjICqmcxAtUic6F27nhO97kQqfcO12Q32Rr3U_8APC97Rt53mnTBxR-4-TaWZe3cLgk2jH_F-gxkWi2wL1Gx9EJZnMIcKGp2SMhPcziUzdSQPzCv5vdmeu-AFcTPy_46BScZoQ?fife=s408",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuHU-GCsCMh7FXSgzNk2j_vkQknr3tT2GWSu9qk46Q9owgRHHjmmao97JY1uLfXlRgVOjvkwCmB1boYbPKta27bbfqf0s0XA2YeDFhu6Q56xp87wOGSUIYmobYtGtZghjcBZPTE4v-UY3rawf-4BolNPo9lbJlnP6jvaW8CRiOiLvj2SY74W44Uz6gQ3wBXppJuUgs3Ed2S9LglGBz2T1btx0HxbAdidUl8raG3LkZWIE2kIXGs6-1frryETMWe8OXx1HpOFo_RO?fife=s408",
     "directionsUrl": "https://www.google.com/maps/dir//41.3952155,2.1619024/@41.3954035,2.0795847,12z?entry=ttu",
-    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_5.jpg"
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_4.jpg"
   },
   {
     "name": "Disseny Hub Barcelona - DHub",
     "description": "Muy lindo, varios pisos, una biblioteca tremenda, cafetería y muchas exposiciones.\n\nGratis con Gaudir mes -residentes bcn-  sino 6Є primeros domingos de cada mes todos gratis.",
     "category": "m",
-    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuGU31G33qJIAEIbbWaLdaX4R4dOYjYsLFkGoqArLP8vIHsrIreJ3ef4h8VC43eKqfuDw4WWIIkl9u0n-QECBAE5RklJ7arWA1gfxHTlndyiIYJ1NtX6hzmaII28xfD4YBpyAMv7AYw5J8Bvub3BoV5twF1qffZDt7POi35XPA5aushgHZPK96piF4tmu_ZwESoNoKW8lxRb_rlFL9nylbM56lIEgDbOomPVB-HPIfPOuw-gnO7YjRg7PWCR2l3FNXdXy823E3hvZA?fife=s408",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuFvn5JrzcSmFZBZCN7kJishvPDG0--6CMpsjpwreX47tQZ8QYEJ036KPYy0G-R7CypYTZRnhJz-6GP3R5eZqgbHYdxYIITgC2ejrij7O47TbPanY2I0rP04BTns59ysInxylh1plGPQm2ba9AXx8mJT877utrnYS4A_zvrs3pkQKdmiraXu5Jo_f5x7eQZ4O2mhRyTCjR164OZfI5nlkpBvou7c6QhqRyLCtDj9OVPKaWkMZACjCvbwzNzVhgz2UfWfsTwZPCjV?fife=s408",
     "directionsUrl": "https://www.google.com/maps/dir//41.4022757,2.1883718/@41.4024216,2.105691,12z?entry=ttu",
-    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_6.jpg"
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_5.jpg"
   },
   {
     "name": "Estadio Olímpico de Montjuic",
-    "description": "Me encanta este lugar! El Barca está jugando acá porque estar haciendo nuevo el Camp nou. Pero eso no es lo importante, toda la zona del Montjuic es muuuy linda, se ve tremendo atardecer. Para caminar y tomar mates por ahí también es re bonito.",
+    "description": "Me encanta este lugar. El Barca está jugando acá porque estar haciendo nuevo el Camp nou. Pero eso no es lo importante, toda la zona del Montjuic es muuuy linda, se ve tremendo atardecer. Para caminar y tomar mates por ahí también es re bonito.",
     "category": "a",
-    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuG6QwXZpUJNMuAYMUePwafllXxEGTLne8-Ax5fVrjjhAPBjyVTxmKjuF0XFeBYZAqBYDFLRiTmIgecO03kydf2F4cONkdSynxCAffGCzZRKRTn9GCEUEIJB37If14oy4v1TfZThCFIrHk0Cx65X8tNjo8Rn1h3IWcg5ID8OV1Adc7JJW-IqlzVCykJki6MIm-30xtO-P7xIHnyHnzjcYhiewbxDf74QXlcr0HPOYL1A1GZJaXuapzcrmbo-x9yrWLqoKkGujjpE7w?fife=s408",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuEodA84vhhTF_qE38o0H9_Xzn0kEVEkcWfNaLm2vOcmkKQRZXgfkdWC-dfCDvmujwdbe9q5H1suMipCPwveMl2ac8Nc8j5kgrEC8sqA-Sf7JtXU5EwwLX7DZ8ZkTw_-Ok_cyPcydPxgLUcATj38JFFcm3if_E5Q2uWFiUhEaX-sSL-iB06VdpjyTtwg6EQ4xcOeoTWti_NIraOiwWAVtXpDMFgcZQqjDBqOhnGzpRfPPkxZ2umEwJjjqqaarufj7GNym_hMj7gL?fife=s408",
     "directionsUrl": "https://www.google.com/maps/dir//41.3647848,2.1557648/@41.3646119,2.073214,12z?entry=ttu",
-    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_7.jpg"
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_6.jpg"
   },
   {
     "name": "Sitges",
     "description": "Reee lindo lugar! se llega en el R2. La playa es muy linda y la zona historica también. Suele haber mucha gente.",
     "category": "p",
-    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuELzTph4GJbYqPHtrIfk6z3uJT50noUhous_my6YU0OGtKAY8Fy_0VNrd94LQHnNTQJ6aVhgTSRsAliEWtPhNRc6kAHvAZIKsKVFNSSX7MB3Ri4w5d427HDox5DM_i6swopsziZZ6DBjohJ_psij8LHv835GvDj4iMkkF45_YTyblWCeOJfU5Yqku2RbVyBb77_jO8u2KNZhIuITqo63C99LAGb7T1fLCn9ujU3r9P3nhAq2dJsRu4zAOB14wUhysd-T3aMdV6nqQ?fife=s408",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuE3_b3TYYTI4cuMIid1ZVQUOuFSWfCCIYSGU6oY2bPJOIMNrHendgIRhlT5EEYMY9khn4rCWoCJSyvQ8tQEalmQhlT81ZmutmC8-wn5s3_-QmD81yixBCigdinTboGderCwLq1oUyD_r71CidMPvZKGS3vqmryvO0oLTgTguPxdVrSOnMBOB1uAIuLangDjVjyK2mFcJEb70n7aUqgVIMeF4fQVLhbfEMEGCvNsQDOVmVjgULkNibt22Ilw65H5QHlFybQs0He-?fife=s408",
     "directionsUrl": "https://www.google.com/maps/dir//41.2365928,1.8058987/@41.2365634,1.7234979,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_7.jpg"
+  },
+  {
+    "name": "The fish & chips shop Gluten Free",
+    "description": "Comidita de mar, todo sin gluten. Está increible.\nCaro pero no tanto, normal para el centro.",
+    "category": "c",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuG4T1b6iNpX2kFPwMcWuJcY1FQ91IoKOnhk5ZZ8BWYe4hrZR0gm3lu72rjrHmhWTjJ4-LtAYZibK2wdHUicVb4Kx_7kfNsh7hzP4BDLaD6Jvzjw1gS3Upe4heQ5VDV4pVAVNeYSDmc_ExcGd7G_1b6Kp-kNvlgmQg54gasEimvV8ORrzMNh8_6mcUWtguvQRE34ewFv2Dm4g8lGi0bnlMK6QLmHTBFx81ccLMahSyorFt09S6wlBY2xtsa5j989nLa6EY-kz4QY?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.3867974,2.1567347/@41.3870097,2.074233,12z?entry=ttu",
     "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_8.jpg"
+  },
+  {
+    "name": "Tarragona",
+    "description": "A unas 2hs de Bcn, muy linda playa y la ciudad muy prolija. PD: ahí está Port Aventura que no fuimos pero es god. También tiene una parte de muralla romana y tal.",
+    "category": "p",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuErMJUMvvBhVmpvczGBIrW2y5eCY2Er0cFX4Cj9JjpP819BnwQj8lXSAg_Y739MzOoO5zDmf2EjDuQW4-7nqIO89UVBFL6DePY0hwgghl6vYZfk1Sbes9bDy6cPekIEcRvZgtHDeQk1L7U5nOY3Qk3P6cnPtETkm14k-ZOZpuL5fjOsz6fjsR--uHEbZswjaJ6BL63wuNLH4mECFvotO3LdWh4KgQ-hzqWZIJ2IqK9i_1UFgNpLhusDXgGQtQtULp_RndqAaDAy?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.1188827,1.2444909/@41.1187189,1.1618407,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_9.jpg"
+  },
+  {
+    "name": "Girona",
+    "description": "Amo Girona, fuimos un domingo pero nos pareció súper tranquilo, tiene un parque con un bosque enorme y la parte histórica es muuy bonita, como Barcelona pero sin caos.\n\nSe llega en tren en 1.30hs R3",
+    "category": "p",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuHcytwaTzHOKeA-Umw8Wdw6UrVSESCdmqeatYbq6CSH4IPqwT9O-T4qyPbREKRqbcumaUam-ELjVhvJF_SQLfJI1OzvFB1iRNHxnpDkWy-ZzEAfwqN0lhz1wBwYaBIYLeA06mlmJrkubGm8gkx5XCFoqGRXavrCAxx0j8hRSCqQ_KaKyWvXmHahyYKvQETAIkofXNrZOOYcW88rIDPmWfU4EYOFK9zuYjrV0el0ORwzvofBXQ3w4lXe-YfGojTJfaridPNXD02z?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.9794005,2.8214264/@41.9793523,2.7392295,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_10.jpg"
+  },
+  {
+    "name": "Parque de Diagonal Mar",
+    "description": "Llegamos de casualidad un día a la tardecita y nos encantó, re tranquilo, ideal para tomar unos mates. Hay patitos, una laguna y muchas plantas.",
+    "category": "a",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuE8cyu9wF6uuigYekaBk6nfLtowJnSfHYYwSYkvOvt3pTEFps9VlitNJO4TpW_p6idBbto7F8yfLo_QYnca0K3uWBlRMTyjrJWiW2t0U2gpzl7TCbnPrGsI7FWq-zmDcsmnk3a11i4PblO6xXDM-cShm_Xlcyp9HuIL_GVy7TA3Cd7das14VduJsRUIxCLKEae5TMlIV6URdNct1IXF5mSYvHAa8U1xZCXNbyxt6ZhDGUsEGEkVFEWGcklAb23tLIcpjzdk5Lgc?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.4083523,2.2133864/@41.4082225,2.1310459,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_11.jpg"
+  },
+  {
+    "name": "Pabellón Mies van der Rohe",
+    "description": "Pabellón que se convirtió en museo para exponer los nuevos paradigmas del movimiento moderno. Hito  de la arquitectura moderna.\nLindo y se recorre en poco tiempo.",
+    "category": "m",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuFxRcsZykz126fkPqbrNGHl_VuoBtqB5K1R1GVSq5sZ9T2czFdtHaogL4D_mk9cod7uxpOjkTxI5BnLed6UNEmg8xdkmKaycNyEhwtBLaBL6i4GvpQL_vZSuR92GP_r-7MS0e3F11ZQjN08PjUIP8LGzf2bTa3VGz46h3q258T91Qebk4eLa9bn69tLDRHwuh2wSxR_Y6o4WbbeQJFVtH2gDBfyQHMp7nq-1oD86F0r4ZZNDqWJs0tz9c0VeFHFDnORPobbfxDg?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.3706091,2.1501628/@41.370584,2.0677651,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_12.jpg"
+  },
+  {
+    "name": "ViIassar de Mar",
+    "description": "Nuestra playa favorita, increible atardecer, muy tranquila, no se como será en temporada alta quizás se llena. A unos 30min de bcn en el r1.",
+    "category": "a",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuGFOMyEqFKMqICwATDmesn-TcSMHbDNXXT790WQ49T5cbbWN-9c9sv0ojLEoQq73G5YxNBJDvLHG37Bj06rCnweeimBE1pkkFSOzfLmGnrD6gcV5MO5iIfZZIIeEyyxrueorvL8dnTtSxoAJ4JtXHRLnZvXEBmoOX1KAJp5HsURxIqlbtpzZ9EXRcgFHXtmRh6_45m1_C6OyN9ru6ub8G1SI5fyMmsmCe9gVhKVhkquvkGla-P50XML0mD0PkTtqVg-1yT8Sf3i?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.5040814,2.3922562/@41.5039278,2.3098576,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_13.jpg"
+  },
+  {
+    "name": "El Masnou",
+    "description": "Re lindo pueblito para conocer y pasear un rato, calles empinadas, escaleritas y tal. La playa es linda también, hay algunas mesitas con sombra que están bien para sentarse a comer o así.",
+    "category": "p",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuG2RdzxPgPsh1gcAoFF-nqE0Nxm5xsZP7xKxcGdBlLgOXVpi-zOm8St6nx1N0brg6E4CDF83NBBOlq7A_f035lxoIjQjm96GOLQm4_uObEKjzt_KLAAHxl-oVyQ_kjILUT1f4liwBjOnu67mrqRQICVFrp51Yocv2HKgXokEwtVQj2U46CeNPE4cLVvNFifOg5H5Gp3Y48rv_Z7wTDpZe2Zh2XmbEgY_WRW-DWuH6Gc5cNPIcClIulR2x8_mqduSNYzm89inV-U?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.4826455,2.3114706/@41.4827572,2.2291155,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_14.jpg"
+  },
+  {
+    "name": "Macizo de Montserrat",
+    "description": "Otro de los clásicos, zona de montañas, lindo para caminar un poco. Se tarda unas 3 hs en tren -fgc- hay una feria con productos de la zona y lugarcitos para comer.",
+    "category": "a",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuEKHH29urkbimgvqW-98Yl2DeU5cOcw-28h3jgYJ7a8knhwLTdRoyoAndICm57-ilmWKZaFXKHH39kRU_cRZ1cB6BaK-BcbFhSbV8zrflflkvSiQotKjivAuBC9U3izOl6k8W9Hki06nGR4j8YMRX9lCaI9Ghk7LcmlKbJxNTYq3sGUZJjyg3bu-9zjb8eM-l_gKk_Be5KjZkOr2iQ5cklFLz7snydzB807E05nu0B125iYa1-p6xNOHsy6QYDQbhM73Sn9EVRO?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.5957765,1.8298142/@41.5957471,1.7474134,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_15.jpg"
+  },
+  {
+    "name": "Planoles",
+    "description": "Zona de los pirineos, desde acá se puede caminar al valle de nuria -unas 4hs- muy linda zona de montaña tipo patagónico. Este pueblito en particular es súper chiquito y hay un camping a media hora del tren.",
+    "category": "a",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuGwBZSrpVWsdYvXa07Oe0a9Rizkz9pI16LmcGJZjHb_in5DxfifOqdLSiw7ssvMxHdgJqIKNl1hTwbWbYGQxOLoXnV8GcUwuR5FbldacwTjoYh6Fv-DNYa6pNMe4KPb33x4RvABsijKCgJXQhNnB9fAPeBPuLdrGGmapti7ic5VaTdsgnJ77B7a1J68Bv8nUB6nGXgsr52oMp8RSfTWYqQxxqzYqq_xBBXBKqxHHHBHdOu6vNlWel7IE5zr8XygauPenzLOB7pM?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//42.316176,2.103915/@42.3160891,2.021495,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_16.jpg"
+  },
+  {
+    "name": "Figueres",
+    "description": "Está el museo de Dalí -tremendo- a unas 2hs en tren de bcn, sale unos 22€ la entrada. También hay un castillo de la época de la guerra civil que vale la pena -5€ creo- está como en las afueras de Figueres pero se llega caminando.",
+    "category": "d",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuEUXlJRxz_AmBv9YpCh5Yd_9YjVlZRc4E8PEzvQL_7M5acaG0mq27AiexAklS9wExewPkYZe5FLJUJxqC_PpOLQHH9VHpH600JAPbAkuBdrZutY7ilWZXdCSH59d9p1UpGzk00qNwLEHJg2yaDKfMQzBd3pDheaYhuK9P23pEU0FLHqiahITYoBLuqBoYTl8Xg1kb_9LuIe9nFScEBvh-jEESWsupBTzSPoe1TCAG2WfqgKLLFW1FRE_m8h6zt-tn9Esceih9Ri?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//42.2654818,2.9579232/@42.2654523,2.8755224,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_17.jpg"
+  },
+  {
+    "name": "Bunkers El carmel",
+    "description": "HERMOSO. Un mirador 360 de Bcn con vistas increibles de toda la ciudad y Sagrada Familia, serán unos 25min caminando en subida. El mejor lugar para ver amaneceres, atardeceres y la ciudad en gral.",
+    "category": "a",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuH9qDhW86H6mzCFl51nB0WqWoN1kWPcLqFFl-QGfi3_JvXQnbbh3-GV4v-54R1o1Mp4nSPrVaepIVhw9MM07pg2pjTugQffXOZLdH5Z04E1Ln_mQEG3eoIPsG8ATwwn74onb--PGnZsCHnWxQ_sQBTDgkrCg9G-5YfSU8pbi-Pi0CW7zbGGcJAIvQMakYD7s7EFh1Kl8Nhg56Zy5h7B0VvIerMO0kCoQbGBOwzL02FzCgblAEqkguKDTYtPiUiUP_8kDerHyg7T?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.419236,2.161779/@41.4192748,2.0793763,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_18.jpg"
+  },
+  {
+    "name": "Parc del Laberint d'Horta",
+    "description": "Lindo para ir en familia, el laberinto es chiquito pero nos perdimos xd. Todo el predio es un parque con jardines y fuentes muy lindo y muy cuidado. Se llega en metro.",
+    "category": "a",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuHMVMmBYoVHuulhz3mn1VrKczR3s6hrePxBzuJtGzKk7s9cyIIm3CFNHHmmO6r6H9Xl39rXUOcRputdoDVKy28613cNxxT8sQyTYA5aeTit2ioHzOYnAHMVxmsFlSYKW8pjYuaYdEmupbGQfr6WQjiOsQukYf0Ob9nEDEMgM746NLhvX7cGTloI92hYF4jiuflsyPSSO6Kol8QhqSl7O9jEDHcOZQrirrz51o2IifH_sEfsGHO93QMnisKH_9iDBXMlFt8qQnNg?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.4399698,2.1455713/@41.4400898,2.0631433,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_19.jpg"
+  },
+  {
+    "name": "Tibidabo",
+    "description": "Se puede subir en funicular -12€- también se puede subir en bus. Hay una iglesia enooorme y un pequeño parque de atracciones. Muy lindas vistas de la ciudad y atardeceres.",
+    "category": "d",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuFxa_cAQwlMAX6oMaldC43KU36Of2BwbKQ3trb56_QrApI9X3Ptwu4WgLLI_jEx36Z1P7-HdWruvLtNFVZHVT8XYMWhJbkOWbX1d5DptUt-eIQ2QS2of5t7XnmXdrGJ773swA5Cvy9qdHuuziGeXK6kABpI7p-rTNbbIZVT6RiSkJqHAwrIn1tcjZ2S7uw0yWnb3EiKVj-c3BkDZKbLGoaLIbfdFll-6Wmhss3mfmqw_YbVpHjJMvW_Wnjg7APSWUpR_zLw_aWS?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.4225,2.118611/@41.4224706,2.0362102,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_20.jpg"
+  },
+  {
+    "name": "Parc Natural de Collserola",
+    "description": "Un parque muy lindo para caminar en la naturaleza, se llega en tren -fgc-. Creo que hay un bus para volver porque el recorrido te deja lejos del tren. Arriba hay miradores muy lindos.",
+    "category": "a",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuFjFx1CbsAL2bKyPaPph4T6ssYGzhgyqeO1GIGUb-2t9m4SST6VCF_4BidkmHwQTIQhAtCBSzDk-IKXHNSWzM6TxYlrMOJwcqyoERYyGHOGLh9i4cfO5Y3jRiUsxetNlCE5zyAPXYQJtqUuU0jR7h91JCYiu0ynyIpXfF8qO-VmKnpw8LT4sMS_WV8QqojLxZtTU6nwBLaiRAkkYJhssSDcPNIoXvPUss7YHwGNwj_TWT4B6GAFXQ7uJoS4TcBpdNhEw-bTLdAE?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.4425504,2.1016603/@41.442521,2.0192595,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_21.jpg"
+  },
+  {
+    "name": "Jardí Botànic de Barcelona",
+    "description": "Re grande, re lindo. Está la flora separada por regiones del mundo. Fuentes, huertas y caminitos. No se escucha nada de la ciudad -silencioso-.",
+    "category": "a",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuEzTy0sY9LPp3zFhR9En52_2mkqtVywB_vUIgzdYfKJWEgG5rqpD-T_CuOX5aaw1gbgmlnF0ze1DaOloTjxc9NqgraTMLIv5P0ZVRGbdH8AshU8h21gt1YDY1EeuRny5hKhF6FLeTGZWQ3q6Eo3M_DaxlW8y9FOfu9gQUDKEDN_zGeEh-_OQi0n86g2TyaGyyaZt9W9Y0g8-R0y3tZ3LQFgII4hY8D18LcdR420s7cmZfwQeFvTV8i4VYm9btm65VHfViHStdTr?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.3621881,2.1574698/@41.3621171,2.0751022,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_22.jpg"
+  },
+  {
+    "name": "Invernadero del Parque de la Ciutadella",
+    "description": "Un invernadero muy grande y lindo con plantas. No es mucho más que eso pero esta lindo, además después te podés ir al parque de la Ciutadella. Del parque de la Ciutadella no hay reseña porque a Mateo no le gustó mucho, está bien pero mucha gente y muy explotado. -sobrevalorado-",
+    "category": "a",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuHfGoPe4fm3LBmG2_m1WY-UsWboV0UIKTj5LHPiqAS5-KjTeoB8sSaDo4fIyT3tu6WVlvOoG1nUuMCAsmrAX6qeNeyA4pw1ynOW3Zfqro687We3grC7W6vrpedqkUpcn4U1R69hPHOdFEJZX8-hMeuVzhf4ueVVfD1BCQDyK-nb9pTFTj_mFgI05R_SooknXkaLkmCEN6YBcgIXkwomFiQwydT3cfrj1eDgaq1Ceuakk9nxpVZMLP7wIDzh6kYEaXP0BzNecl3G?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.3877051,2.1839061/@41.3876757,2.1015053,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_23.jpg"
+  },
+  {
+    "name": "Basílica de Santa Maria del Mar",
+    "description": "Ree linda, la construyó la gente o algo así, es el punto clave si vas a visitar La Rivera que es de los primeros barrios de BCN.",
+    "category": "d",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuGP7RGG68KeV2a8sqTGo2W1cPTxaojSr9Yqqe8ojwYxiYDFi1q6m0Kml0fNivEHsZBZtBU5PyFGhk214XODRoXpaIjWIKNvwpr-ZI29KddVaJurOsBc_lKSa_B0kRzzKAkc0Vu3x8j3_Xcy_GNP0zlBpipBEyVjK1mDuB6emAV4s83yPD-xQJSkODUEJN-pf7e5VEH5anjqCO8kOwjdHaIAaujNk-3IjAusXffRDUh5uwWWUJeup6XQ-N8iBtXpD0YSvk_QEfTi?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.3838871,2.1820711/@41.3838718,2.0996559,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_24.jpg"
+  },
+  {
+    "name": "Catedral de Barcelona",
+    "description": "Muy lindo, el Gótico en general es tremendo pero siempre está lleeeeno de gente, capaz se puede ir temprano o tarde.. No se, es lindo ir y perderse en las callecitas que son muy lindas. Muchos bares, cafeterías, etc. No compres cosas ni divisas que te ven la cara.",
+    "category": "d",
+    "imageUrl": "https://mymaps.usercontent.google.com/hostedimage/m/*/6AFclZuHHlSuMYTRJ-8E7f1mfLd0THf5WHPPThoxVC_pY-F3Ntzh_n3DP0DHvc9tnI2NkZCzSwlP7QfSRNtZPBLtdXLeB_7N9seTzApwJzjEq2ISvx8ChsJsoB2oXZ0LzkFGw1OF5TJ8HuRgJB1Pry9LsuLTUaToiDfESNRKD40YvBDXJOJeEfMPStKq0mTqcHwOPW607RbOfXcfhykARQlqvAFLzfVnVfeYA5DaMnq93ehPLKcoC1ymau9Y-Czja9aXrfMv4RIdK3rA-?fife=s408",
+    "directionsUrl": "https://www.google.com/maps/dir//41.383962,2.1761991/@41.3840221,2.0940181,12z?entry=ttu",
+    "localImageUrl": "D:\\Code\\Scrapping BCN\\img\\image_25.jpg"
   }
 ]
